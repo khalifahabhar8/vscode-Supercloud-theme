@@ -1,27 +1,32 @@
-# Supercloud theme for vscode repo 
-SuperCloud is a modern, elegant light theme for VS Code with a unique twist: you get to vote for the next update!
+# Supercloud Theme for VS Code
 
----
-## Features
+**SuperCloud** is a modern, elegant light theme for VS Code with a unique twist: _you_ get to vote for the next update!
 
-- Clean, readable syntax highlighting for all major languages
+## ✨ Features
+- **Clean, readable syntax highlighting** for all major languages.
+- **Balanced color palette** designed for comfortable daytime coding.
+- Unique styling for `{ .. }` scopes, keywords, functions, strings, and comments.
+- **Voting Update System:** You decide which tweaks, colors, or features come next!
 
-- Balanced color palette designed for daytime coding
+## 🚧 Limitations
+- Still in **beta**.
+- Not yet available on the VS Code Marketplace.
+- You can clone the repo and install manually for now.
 
-- { .. } scopes, keywords, functions, strings, and comments all uniquely styled
+## 🗳️ Voting Update System
+Every **Eid al-Adha**, **Christmas**, and **September**, we host a voting update!
 
-- Voting Update System: You decide which tweaks, colors, or features come next!
----
-## its limitations
-- still in beta
-  
-- not yet on vscode marketplace
+- Voting occurs in [GitHub Issues](https://github.com/khalifahabhar8/vscode-Supercloud-theme/issues).
+- _All_ users are welcome to participate—no special requirements.
+- Vote on which updates/features you want next for SuperCloud.
+- Your votes directly influence the next version!
 
-- with the alternatives available now you can clone the repo
+## 🚀 Getting Started
+1. Clone this repo:
+   ```sh
+   git clone https://github.com/khalifahabhar8/vscode-Supercloud-theme.git
+   ```
+2. Follow the instructions in the repo to install the theme manually.
 
-## Voting update 
-Every Eid al-Adha, Christmas and September there is a voting update
-
-where is the voting update? in github issues. Voting updates are not only for special users. but all users who use supercloud 
-
-Users can vote on which updates/features they want next for SuperCloud. Your votes directly influence the next version!
+## 📣 Alternatives
+While SuperCloud is still in beta and not on the Marketplace, you can check out and clone the repo to try it out!
